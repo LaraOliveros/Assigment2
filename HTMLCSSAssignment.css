@@ -1,0 +1,28 @@
+.Brock{
+  border: 10px dotted black;
+  margin: 1px 1% 1px 1%;
+padding: 5px 1% 5px 1%;
+}
+
+.HeaderOne{
+  color: red;
+}
+.TextOne{
+  text-transform: uppercase;
+}
+.HeaderTwo{
+  font-family: sans-serif;
+}
+.TextTwo{
+  font-size: 22px;
+}
+.HeaderThree{
+  position: relative;
+}
+.ListOne, .ListThree{
+  color: green;
+}
+
+.Div1 .ListFive{
+  color: brown;
+}
